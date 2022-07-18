@@ -13,8 +13,8 @@
 
 ## Technologies Used
 - create-react-app
-- foundation-sites
 - react-router-dom
+- react-bootstrap
 
 
 ## Installation
